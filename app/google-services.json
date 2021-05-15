@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822525091630",
+    "project_id": "notesappnew",
+    "storage_bucket": "notesappnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822525091630:android:60f491c06b98231949e4bf",
+        "android_client_info": {
+          "package_name": "com.app.googlekeepc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822525091630-scohnr54oq49cougaipeo3ureneskj2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzP1K2IQ3KcxFR_EwuliZK40FOQRBh63Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822525091630-scohnr54oq49cougaipeo3ureneskj2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
